@@ -1,0 +1,2 @@
+model_checkpoint_path: "critic2_ddpg.tf"
+all_model_checkpoint_paths: "critic2_ddpg.tf"
