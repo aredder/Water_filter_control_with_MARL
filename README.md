@@ -1,6 +1,6 @@
 # Distributed deterministic policy gradient algorithm
-## Evaluation for a Two-Agent water tank flow control problem with delayed communication
 
+### Evaluation for a Two-Agent water tank flow control problem with delayed communication
 <table>
   <tr>
 	<td><img src="/visualisations/animation_waterlevel.gif?raw=true" width="200"></td>
